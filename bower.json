@@ -1,0 +1,22 @@
+{
+  "name": "flight-citationformatter",
+  "version": "0.0.0",
+  "main": "lib/citationformatter.js",
+  "dependencies": {
+    "flight": "^1.2.0"
+  },
+  "devDependencies": {
+    "jasmine-flight": "^2.2.0",
+    "jasmine-ajax": "^2.0.1"
+  },
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "test",
+    "package.json",
+    "karma.conf.js"
+  ]
+}
